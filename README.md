@@ -1,4 +1,4 @@
-# (Nombre del proyecto)  
+# Mis pies son mis ojos
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -11,15 +11,15 @@ Univesidad de Granada
 
 **Titulo** : _______
 
-**Autor(es)** ______________
+**Autor(es)** : Alejandra Navas, Gabriel Baldoy, Susana Besteiro.  
 
 **Resumen** : _________
 
-**logotipo** :  ________
+**logotipo** :  (Bailarina.jpg)
 
 **Slogan** (frase motivadora/inspiradora): ________
 
-**Hashtag**  ___
+**Hashtag**  #VivirOVer
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
@@ -28,7 +28,7 @@ Univesidad de Granada
 **Medios** (donde se tiene presencia): 
 
 
-* :octocat: (github url) 
+* :octocat: [(github url) ](https://github.com/gabbalord/PeriodismoMultimedia_Template.git)
 * ArcWeave:
 * Protopie:
 *  
@@ -45,9 +45,9 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
+**Investigación de campo**   Propuestas que han resultado inspiradoras. 
 
-* @LadyDistopia (link) ...¿ por qué ?
+* Ninette. (https://ninette.berlin/mainsite/index-en.html) Proyecto que muestra una realidad mediante un cómic / historia interactiva. 
 * (...)
 * 
 
