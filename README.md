@@ -1,4 +1,4 @@
-# Mis pies son mis ojos
+# (Nombre del proyecto)  
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -9,27 +9,28 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : Título: Mis pies son mis ojos
 
-**Autor(es)** : Alejandra Navas, Gabriel Baldoy, Susana Besteiro.  
+**Autor(es)** Gabriel Baldoy, Susana Besteiro, Alejandra Navas
 
-**Resumen** : _________
+**Resumen** : Alicia es una de las bailarinas de ballet más prometedoras de toda Cuba, pero últimamente no se siente demasiado bien. Una noche tenía que bailar en el teatro mayor de la Habana, pero se sintió un poco mareada a mitad de la función. A partir de aquí Alicia tendrá que tomar una decisión importante.
 
-**logotipo** :  (Bailarina.jpg)
+**logotipo** :  ![logo](https://github.com/Halejandrumss/Halejandrumss.github.io/assets/165934838/b69664b2-5ec8-4c35-b98d-55fefdacfafd)
 
-**Slogan** (frase motivadora/inspiradora): ________
 
-**Hashtag**  #VivirOVer
+**Slogan** (frase motivadora/inspiradora): Una historia conmovedora
+
+**Hashtag** #oiryver
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
 **Fecha** : 2024
 
-**Medios** (donde se tiene presencia): 
+**Medios** (donde se tiene presencia): Movil, tablet, ordenador.
 
 
-* :octocat: [(github url) ](https://github.com/gabbalord/PeriodismoMultimedia_Template.git)
-* ArcWeave:
+* :octocat: (github url) 
+* ArcWeave: 
 * Protopie:
 *  
 
@@ -39,15 +40,18 @@ Univesidad de Granada
 
 ### Metodología
 
-Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
+Metodología de desarrollo: Se desarrolló la historia en Arcwave y se plantearon todas las decisiones posibles y los caminos alternativos en el juego. Posteriormente concluimos en que la estructura de novela gráfica hacía que aplicaciones como Ren Py, fueran muy adecuadas para este formato. 
 
 ### Etapa 1: Ideación de proyecto 
 
+Durante de ideación del proyecto nos preocupamos por entender qué queríamos hacer exactamente, y para plasmarlo nos valimos de Arcwave, y ya ahi empezamos a desarrollar la historia y sus variaciones. Empezamos a meter imágenes de prueba para que la historia terminara de cuajar y para entender que dirección tomaría. 
+
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
-**Investigación de campo**   Propuestas que han resultado inspiradoras. 
+**Investigación de campo**
+Aunque empezamos probando aplicaciones como Protopie, concluimos en que la mejor manera de desarrollar esta historia sería usando Ren py, ya que es muy buena para hacer novelas gráficas. Nuestro trabajo debia tener estructura de novela grafica y Ren py ofrece resultados muy visuales para ello, así que nos basamos en novela Dokidoki o 
 
-* Ninette. (https://ninette.berlin/mainsite/index-en.html) Proyecto que muestra una realidad mediante un cómic / historia interactiva. 
+* @LadyDistopia (link) ...¿ por qué ?
 * (...)
 * 
 
